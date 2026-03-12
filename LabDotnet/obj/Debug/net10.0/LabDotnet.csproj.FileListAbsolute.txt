@@ -1,0 +1,14 @@
+C:\Users\32614241\LabDotnet\bin\Debug\net10.0\LabDotnet.exe
+C:\Users\32614241\LabDotnet\bin\Debug\net10.0\LabDotnet.deps.json
+C:\Users\32614241\LabDotnet\bin\Debug\net10.0\LabDotnet.runtimeconfig.json
+C:\Users\32614241\LabDotnet\bin\Debug\net10.0\LabDotnet.dll
+C:\Users\32614241\LabDotnet\bin\Debug\net10.0\LabDotnet.pdb
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.AssemblyInfoInputs.cache
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.AssemblyInfo.cs
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.csproj.CoreCompileInputs.cache
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.dll
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\refint\LabDotnet.dll
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.pdb
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\LabDotnet.genruntimeconfig.cache
+C:\Users\32614241\LabDotnet\obj\Debug\net10.0\ref\LabDotnet.dll
